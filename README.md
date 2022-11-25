@@ -1,4 +1,4 @@
-# Laborator1
+# Tema1
 
 Realizati o aplicatie mobila a carei interfata trebuie sa contina:
 
